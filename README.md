@@ -31,4 +31,4 @@ This repository contains all the necessary code and resources to reproduce the r
 
 ## Citation
 
-If you use the code in this repository in your research, please cite the repository as the manuscript is currently **under consideration**.
+El Badisy, I., Graffeo, N., Khalis, M. et al. Multi-metric comparison of machine learning imputation methods with application to breast cancer survival. BMC Med Res Methodol 24, 191 (2024). https://doi.org/10.1186/s12874-024-02305-3
